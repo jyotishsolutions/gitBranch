@@ -7,12 +7,12 @@ package gitBranch;
  * @author Jyothi
  *
  */
-public class TestMaster {
+public class TestAfterBranch{
 
 	/**
 	 * 
 	 */
-	public TestMaster() {
+	public TestAfterBranch() {
 		// TODO Auto-generated constructor stub
 	}
 
